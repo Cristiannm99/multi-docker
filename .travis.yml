@@ -22,4 +22,3 @@ after_success:
   - docker push cristiannm/multi-nginx
   - docker push cristiannm/multi-server
   - docker push cristiannm/multi-worker
-  
